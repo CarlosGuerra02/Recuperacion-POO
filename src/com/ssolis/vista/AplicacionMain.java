@@ -7,7 +7,7 @@ package com.ssolis.vista;
 public class AplicacionMain {
   public static void main(String[] args) {
         System.out.println("hola mundo");
-        System.out.println("Bienvenidos a POO 2, Alexis Díaz");
+        System.out.println("Bienvenidos a POO II y Liga campeon, Carlos Guerra");
         
     }
 }
